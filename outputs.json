@@ -1,0 +1,342 @@
+[
+  {
+    "material_name": "25mm steel bars",
+    "quantity": 25.0,
+    "unit": "mm",
+    "project_name": "Phoenix",
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Create 25mm steel bars, 120 units for Project Phoenix, required before 15th March"
+  },
+  {
+    "material_name": "Ultratech Cement",
+    "quantity": 350.0,
+    "unit": "bags",
+    "project_name": null,
+    "location": "site Mumbai",
+    "urgency": "high",
+    "deadline": null,
+    "_input": "Need 350 bags of Ultratech Cement 50kg for the site Mumbai-West urgently in 7 days"
+  },
+  {
+    "material_name": "river sand",
+    "quantity": 12.0,
+    "unit": "truckloads",
+    "project_name": null,
+    "location": "Bangalore",
+    "urgency": "high",
+    "deadline": "2024-04-30",
+    "_input": "Order 12 truckloads of river sand for Bangalore Metro Phase 2 by April end"
+  },
+  {
+    "material_name": "of cement",
+    "quantity": 50.0,
+    "unit": "bags",
+    "project_name": null,
+    "location": "Mumbai",
+    "urgency": "high",
+    "deadline": null,
+    "_input": "Yo, we need like 50 bags of cement ASAP for the Mumbai job"
+  },
+  {
+    "material_name": "Gimme 100 units",
+    "quantity": 100.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Gimme 100 units of steel bars, the 25mm ones, for Phoenix project"
+  },
+  {
+    "material_name": "Need cement",
+    "quantity": 200.0,
+    "unit": "bags",
+    "project_name": null,
+    "location": "Mumbai",
+    "urgency": "high",
+    "deadline": null,
+    "_input": "Need cement urgently, like 200 bags, Mumbai site"
+  },
+  {
+    "material_name": "Need steel bars",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Need steel bars"
+  },
+  {
+    "material_name": "Cement for Mumbai",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": "Mumbai",
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Cement for Mumbai"
+  },
+  {
+    "material_name": "Order 500 units",
+    "quantity": 500.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Order 500 units"
+  },
+  {
+    "material_name": "25mm stel bars",
+    "quantity": 25.0,
+    "unit": "mm",
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Crete 25mm stel bars, 120 unts for Projct Phoenix"
+  },
+  {
+    "material_name": "Need 350 bgs",
+    "quantity": 50.0,
+    "unit": "kg",
+    "project_name": null,
+    "location": "Mumbai",
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Need 350 bgs of Ultratech Cemnt 50kg for Mumbai-West"
+  },
+  {
+    "material_name": "river sand",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Ordr 12 trucklods of river sand for Banglore Metro"
+  },
+  {
+    "material_name": "Need 100 units",
+    "quantity": 100.0,
+    "unit": "units",
+    "project_name": "Alpha",
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Need 100 units of steel, no wait, make it 200 units for Project Alpha, deadline is March 15th or maybe April 1st"
+  },
+  {
+    "material_name": "bags cement",
+    "quantity": 50.0,
+    "unit": "bags",
+    "project_name": null,
+    "location": "Mumbai",
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Order 50 bags cement for Mumbai site, actually make it 75 bags for Delhi site"
+  },
+  {
+    "material_name": "Get some materials",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "medium",
+    "deadline": null,
+    "_input": "Get some materials soon"
+  },
+  {
+    "material_name": "Need stuff for",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Need stuff for the project"
+  },
+  {
+    "material_name": "Order building supplies",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "high",
+    "deadline": null,
+    "_input": "Order building supplies urgently"
+  },
+  {
+    "material_name": "Need materials for",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Need materials for the site"
+  },
+  {
+    "material_name": "Order 500 units",
+    "quantity": 500.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Order 500 units by next month"
+  },
+  {
+    "material_name": "Cement needed urgently",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "high",
+    "deadline": null,
+    "_input": "Cement needed urgently"
+  },
+  {
+    "material_name": "Need 100 units",
+    "quantity": 100.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "medium",
+    "deadline": null,
+    "_input": "Need 100 units of steel bars soon"
+  },
+  {
+    "material_name": "Order cement",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Order cement for later"
+  },
+  {
+    "material_name": "Get materials when",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Get materials when possible"
+  },
+  {
+    "material_name": "bags cement",
+    "quantity": 100.0,
+    "unit": "bags",
+    "project_name": null,
+    "location": "Mumbai",
+    "urgency": "high",
+    "deadline": null,
+    "_input": "100 bags cement chahiye Mumbai site ke liye, urgent hai"
+  },
+  {
+    "material_name": "Steel bars 200",
+    "quantity": 200.0,
+    "unit": "units",
+    "project_name": "Phoenix",
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Steel bars 200 units, Project Phoenix, March tak"
+  },
+  {
+    "material_name": "Unknown",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "MATERIAL: Steel Bars | QTY: 120 | UNIT: pieces | PROJECT: Phoenix | DEADLINE: 15-Mar-2024"
+  },
+  {
+    "material_name": "Unknown",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": "Mumbai",
+    "urgency": "high",
+    "deadline": null,
+    "_input": "Cement-350-bags-Mumbai-urgent-7days"
+  },
+  {
+    "material_name": "25mm steel bars",
+    "quantity": 25.0,
+    "unit": "mm",
+    "project_name": "Phoenix",
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Create 25mm steel bars, 120 units for Project Phoenix, required before 15th March. Also need paint and tools but that's separate. Contact John at 123-456-7890."
+  },
+  {
+    "material_name": "Need materials in",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Need materials in a week"
+  },
+  {
+    "material_name": "Order supplies next",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Order supplies next month"
+  },
+  {
+    "material_name": "Get cement",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Get cement in few days"
+  },
+  {
+    "material_name": "Steel bars needed",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": "Phoenix",
+    "location": null,
+    "urgency": "medium",
+    "deadline": null,
+    "_input": "Steel bars needed for Project Phoenix"
+  },
+  {
+    "material_name": "Cement required for",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": "Mumbai",
+    "urgency": "low",
+    "deadline": null,
+    "_input": "Cement required for Mumbai site"
+  },
+  {
+    "material_name": "River sand",
+    "quantity": 0.0,
+    "unit": "units",
+    "project_name": null,
+    "location": "Bangalore",
+    "urgency": "low",
+    "deadline": null,
+    "_input": "River sand for Bangalore Metro"
+  }
+]

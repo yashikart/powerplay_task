@@ -1,0 +1,60 @@
+# Standard Examples
+Create 25mm steel bars, 120 units for Project Phoenix, required before 15th March
+Need 350 bags of Ultratech Cement 50kg for the site Mumbai-West urgently in 7 days
+Order 12 truckloads of river sand for Bangalore Metro Phase 2 by April end
+
+# Edge Cases - Slang and Informal Language
+Yo, we need like 50 bags of cement ASAP for the Mumbai job
+Gimme 100 units of steel bars, the 25mm ones, for Phoenix project
+Need cement urgently, like 200 bags, Mumbai site
+
+# Edge Cases - Incomplete Data
+Need steel bars
+Cement for Mumbai
+Order 500 units
+
+# Edge Cases - Typos
+Crete 25mm stel bars, 120 unts for Projct Phoenix
+Need 350 bgs of Ultratech Cemnt 50kg for Mumbai-West
+Ordr 12 trucklods of river sand for Banglore Metro
+
+# Edge Cases - Conflicting Information
+Need 100 units of steel, no wait, make it 200 units for Project Alpha, deadline is March 15th or maybe April 1st
+Order 50 bags cement for Mumbai site, actually make it 75 bags for Delhi site
+
+# Edge Cases - Ambiguous Inputs
+Get some materials soon
+Need stuff for the project
+Order building supplies urgently
+
+# Edge Cases - Missing Critical Fields
+Need materials for the site
+Order 500 units by next month
+Cement needed urgently
+
+# Edge Cases - Vague Deadlines
+Need 100 units of steel bars soon
+Order cement for later
+Get materials when possible
+
+# Edge Cases - Mixed Languages (Hinglish)
+100 bags cement chahiye Mumbai site ke liye, urgent hai
+Steel bars 200 units, Project Phoenix, March tak
+
+# Edge Cases - Unusual Formats
+MATERIAL: Steel Bars | QTY: 120 | UNIT: pieces | PROJECT: Phoenix | DEADLINE: 15-Mar-2024
+Cement-350-bags-Mumbai-urgent-7days
+
+# Edge Cases - Extra Information
+Create 25mm steel bars, 120 units for Project Phoenix, required before 15th March. Also need paint and tools but that's separate. Contact John at 123-456-7890.
+
+# Edge Cases - Relative Dates Without Context
+Need materials in a week
+Order supplies next month
+Get cement in few days
+
+# Edge Cases - No Quantities Specified
+Steel bars needed for Project Phoenix
+Cement required for Mumbai site
+River sand for Bangalore Metro
+

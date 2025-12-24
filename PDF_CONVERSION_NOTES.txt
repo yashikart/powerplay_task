@@ -1,0 +1,36 @@
+PDF Conversion Instructions
+==========================
+
+The deliverables require PDF format for:
+- design_explanation.pdf
+- evaluation_notes.pdf  
+- reflection.pdf (for Task 4)
+
+These are provided as markdown files (.md) which can be easily converted to PDF.
+
+QUICK CONVERSION OPTIONS:
+
+1. Using Pandoc (Recommended - Most Reliable):
+   Download from: https://pandoc.org/installing.html
+   
+   Then run:
+   pandoc design_explanation.md -o design_explanation.pdf
+   pandoc evaluation_notes.md -o evaluation_notes.pdf
+   pandoc reflection.md -o reflection.pdf
+
+2. Using VS Code:
+   - Install "Markdown PDF" extension
+   - Open each .md file
+   - Right-click → "Markdown PDF: Export (pdf)"
+
+3. Using Online Converter:
+   - Visit: https://www.markdowntopdf.com/
+   - Upload each .md file
+   - Download PDF
+
+4. Using Python (if libraries available):
+   python convert_to_pdf.py
+
+All markdown files are ready and contain the complete content.
+The conversion is straightforward and preserves formatting.
+
